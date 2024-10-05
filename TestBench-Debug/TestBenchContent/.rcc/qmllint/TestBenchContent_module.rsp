@@ -1,0 +1,12 @@
+-I
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/qml
+-I
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/qml
+-I
+C:/Qt/6.7.2/mingw_64/./qml
+--resource
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBenchContent/.qt/rcc/qmake_TestBenchContent.qrc
+--resource
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBenchContent/.qt/rcc/TestBenchContent_raw_qml_0.qrc
+--module
+TestBenchContent

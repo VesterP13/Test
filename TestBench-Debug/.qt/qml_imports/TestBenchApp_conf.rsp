@@ -1,0 +1,11 @@
+-rootPath
+C:/Users/Vest3/Desktop/Nowa/TestBench
+-cmake-output
+-output-file
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/.qt/qml_imports/TestBenchApp_conf.cmake
+-importPath
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/qml
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/.qt/rcc/configuration.qrc

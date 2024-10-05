@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"TestBench/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "TestBench_tooling::@b4cf54b75b84893f7832"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "TestBench_autogen_timestamp_deps::@b4cf54b75b84893f7832",
+	"isGeneratorProvided" : true,
+	"name" : "TestBench_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "TestBench",
+		"source" : "TestBench"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QtQuick/Studio/Utils">
+    <file alias="qmldir">C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/qml/QtQuick/Studio/Utils/qmldir</file>
+  </qresource>
+</RCC>
+

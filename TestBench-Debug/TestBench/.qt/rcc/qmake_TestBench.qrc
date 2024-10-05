@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TestBench">
+    <file alias="qmldir">C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/qml/TestBench/qmldir</file>
+  </qresource>
+</RCC>
+

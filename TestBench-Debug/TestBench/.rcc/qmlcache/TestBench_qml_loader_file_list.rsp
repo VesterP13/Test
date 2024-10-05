@@ -1,0 +1,8 @@
+--resource
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBench/.qt/rcc/qmake_TestBench.qrc
+--resource
+C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBench/.qt/rcc/TestBench_raw_qml_0.qrc
+/qt/qml/TestBench/Constants.qml
+/qt/qml/TestBench/EventListSimulator.qml
+/qt/qml/TestBench/DirectoryFontLoader.qml
+/qt/qml/TestBench/EventListModel.qml

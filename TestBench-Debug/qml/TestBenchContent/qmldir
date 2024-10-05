@@ -1,0 +1,9 @@
+module TestBenchContent
+linktarget TestBenchContentplugin
+optional plugin TestBenchContentplugin
+classname TestBenchContentPlugin
+typeinfo TestBenchContent.qmltypes
+prefer :/qt/qml/TestBenchContent/
+Screen01 1.0 Screen01.ui.qml
+App 1.0 App.qml
+

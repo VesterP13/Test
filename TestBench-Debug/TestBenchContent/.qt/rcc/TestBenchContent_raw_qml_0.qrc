@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/TestBenchContent/">
+    <file alias="Screen01.ui.qml">C:/Users/Vest3/Desktop/Nowa/TestBench/TestBenchContent/Screen01.ui.qml</file>
+    <file alias="App.qml">C:/Users/Vest3/Desktop/Nowa/TestBench/TestBenchContent/App.qml</file>
+  </qresource>
+</RCC>
+

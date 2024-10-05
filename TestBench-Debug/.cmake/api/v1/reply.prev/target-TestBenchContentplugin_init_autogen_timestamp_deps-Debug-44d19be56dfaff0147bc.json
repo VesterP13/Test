@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"TestBenchContent/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "TestBenchContentplugin_init_autogen_timestamp_deps::@ef636e08c6b23a4bf4cf",
+	"isGeneratorProvided" : true,
+	"name" : "TestBenchContentplugin_init_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "TestBenchContent",
+		"source" : "TestBenchContent"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBenchContent/CMakeFiles/TestBenchContentplugin_init_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Vest3/Desktop/Nowa/TestBench-Debug/TestBenchContent/CMakeFiles/TestBenchContentplugin_init_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
